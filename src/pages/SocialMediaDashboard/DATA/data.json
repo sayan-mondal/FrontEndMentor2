@@ -1,0 +1,105 @@
+{
+	"totalfollowers": "23,004",
+	"socialmediastats": [
+		{
+			"id": 1,
+			"platform": "facebook",
+			"username": "@nathanf",
+			"stats": [
+				{
+					"id": 1,
+					"name": "Followers",
+					"value": "1987",
+					"update": { "value": "12", "type": 1 }
+				},
+				{
+					"id": 2,
+					"name": "Page Views",
+					"value": "87",
+					"update": { "value": "3%", "type": 1 }
+				},
+				{
+					"id": 3,
+					"name": "Likes",
+					"value": "52",
+					"update": { "value": "2%", "type": -1 }
+				}
+			]
+		},
+		{
+			"id": 2,
+			"platform": "twitter",
+			"username": "@nathanf",
+			"stats": [
+				{
+					"id": 1,
+					"name": "Followers",
+					"value": "1044",
+					"update": { "value": "99", "type": 1 }
+				},
+				{
+					"id": 2,
+					"name": "Retweets",
+					"value": "117",
+					"update": { "value": "303%", "type": 1 }
+				},
+				{
+					"id": 3,
+					"name": "Likes",
+					"value": "507",
+					"update": { "value": "507%", "type": 1 }
+				}
+			]
+		},
+		{
+			"id": 3,
+			"platform": "instagram",
+			"username": "@realnathanf",
+			"stats": [
+				{
+					"id": 1,
+					"name": "Followers",
+					"value": "11k",
+					"update": { "value": "1099", "type": 1 }
+				},
+				{
+					"id": 2,
+					"name": "Profile Views",
+					"value": "52k",
+					"update": { "value": "1375%", "type": 1 }
+				},
+				{
+					"id": 3,
+					"name": "Likes",
+					"value": "5462",
+					"update": { "value": "2257%", "type": 1 }
+				}
+			]
+		},
+		{
+			"id": 4,
+			"platform": "youtube",
+			"username": "Nathan F.",
+			"stats": [
+				{
+					"id": 1,
+					"name": "Subscribers",
+					"value": "8239",
+					"update": { "value": "144", "type": -1 }
+				},
+				{
+					"id": 2,
+					"name": "Total Views",
+					"value": "1407",
+					"update": { "value": "12%", "type": -1 }
+				},
+				{
+					"id": 3,
+					"name": "Likes",
+					"value": "107",
+					"update": { "value": "19%", "type": -1 }
+				}
+			]
+		}
+	]
+}
